@@ -6,7 +6,7 @@ class Person
   String name,address;
    int mobileno;
     
-
+   int a;
 
 
  public Person()
